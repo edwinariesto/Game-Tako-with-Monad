@@ -24,8 +24,8 @@ Tako Game is an interactive Web3 game on Monad Testnet featuring a 0.1 MONAD/mon
 ### Setup & Deployment
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/edwinariesto/Game-Tako-with-Monad-.git
-   cd Game-Tako-with-Monad-
+   git clone https://github.com/edwinariesto/Game-Tako-with-Monad.git
+   cd Game-Tako-with-Monad
    ```
 2. **Install Smart Contract Dependencies (Optional for Frontend):**
    ```bash
@@ -62,8 +62,8 @@ Tako Game adalah game Web3 interaktif di Monad Testnet dengan fitur langganan 0.
 ### Instalasi & Deployment
 1. **Clone repositori:**
    ```bash
-   git clone https://github.com/edwinariesto/Game-Tako-with-Monad-.git
-   cd Game-Tako-with-Monad-
+   git clone https://github.com/edwinariesto/Game-Tako-with-Monad.git
+   cd Game-Tako-with-Monad
    ```
 2. **Install Dependensi Smart Contract (Opsional untuk Frontend):**
    ```bash
