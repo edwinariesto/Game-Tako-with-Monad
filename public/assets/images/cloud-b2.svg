@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="#FFFFFF">
+  <!-- Cloud B2: Jagged uneven -->
+  <ellipse cx="90" cy="72" rx="75" ry="32" fill="white"/>
+  <circle cx="45" cy="62" r="30" fill="white"/>
+  <circle cx="78" cy="50" r="28" fill="white"/>
+  <circle cx="108" cy="48" r="32" fill="white"/>
+  <circle cx="138" cy="55" r="30" fill="white"/>
+  <circle cx="158" cy="68" r="24" fill="white"/>
+  <ellipse cx="75" cy="75" rx="22" ry="14" fill="white"/>
+  <ellipse cx="130" cy="76" rx="20" ry="12" fill="white"/>
+</svg>

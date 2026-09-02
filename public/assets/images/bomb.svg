@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+  <defs>
+    <radialGradient id="bombGrad" cx="40%" cy="40%">
+      <stop offset="0%" stop-color="#555"/>
+      <stop offset="70%" stop-color="#222"/>
+      <stop offset="100%" stop-color="#000"/>
+    </radialGradient>
+    <linearGradient id="fuseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B4513"/>
+      <stop offset="100%" stop-color="#654321"/>
+    </linearGradient>
+  </defs>
+  <!-- Fuse -->
+  <path d="M 32 8 Q 35 5 38 8 Q 42 3 45 8" stroke="url(#fuseGrad)" stroke-width="3" fill="none"/>
+  <!-- Spark -->
+  <circle cx="45" cy="8" r="4" fill="#FF6600">
+    <animate attributeName="opacity" values="1;0.3;1;0.3;1" dur="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="45" cy="8" r="2" fill="#FFFF00">
+    <animate attributeName="r" values="2;3;2" dur="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Bomb body -->
+  <circle cx="30" cy="35" r="24" fill="url(#bombGrad)" stroke="#111" stroke-width="2"/>
+  <!-- Highlight -->
+  <ellipse cx="22" cy="28" rx="8" ry="6" fill="#666" opacity="0.4"/>
+  <!-- Skull -->
+  <circle cx="30" cy="32" r="10" fill="#CCC"/>
+  <ellipse cx="30" cy="40" rx="8" ry="5" fill="#CCC"/>
+  <circle cx="26" cy="32" r="3" fill="#222"/>
+  <circle cx="34" cy="32" r="3" fill="#222"/>
+  <path d="M 25 40 Q 30 44 35 40" stroke="#222" stroke-width="2" fill="none"/>
+</svg>

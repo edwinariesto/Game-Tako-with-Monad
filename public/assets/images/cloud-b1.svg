@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="#FFFFFF">
+  <!-- Cloud B1: Puffy tower -->
+  <circle cx="70" cy="65" r="35" fill="white"/>
+  <circle cx="55" cy="72" r="25" fill="white"/>
+  <circle cx="85" cy="55" r="30" fill="white"/>
+  <ellipse cx="100" cy="75" rx="70" ry="28" fill="white"/>
+  <circle cx="130" cy="58" r="32" fill="white"/>
+  <circle cx="150" cy="68" r="26" fill="white"/>
+</svg>

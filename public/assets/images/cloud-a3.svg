@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="#FFFFFF">
+  <!-- Cloud A3: Flat layered -->
+  <ellipse cx="100" cy="78" rx="85" ry="22" fill="white"/>
+  <ellipse cx="100" cy="68" rx="70" ry="20" fill="white"/>
+  <circle cx="55" cy="62" r="28" fill="white"/>
+  <circle cx="95" cy="55" r="32" fill="white"/>
+  <circle cx="145" cy="60" r="30" fill="white"/>
+  <ellipse cx="100" cy="72" rx="40" ry="14" fill="white"/>
+</svg>

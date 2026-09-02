@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="#FFFFFF">
+  <!-- Cloud B3: Round puff cluster -->
+  <circle cx="55" cy="70" r="28" fill="white"/>
+  <circle cx="80" cy="58" r="35" fill="white"/>
+  <circle cx="115" cy="55" r="38" fill="white"/>
+  <circle cx="150" cy="62" r="32" fill="white"/>
+  <ellipse cx="100" cy="78" rx="65" ry="22" fill="white"/>
+  <circle cx="100" cy="48" r="28" fill="white"/>
+</svg>

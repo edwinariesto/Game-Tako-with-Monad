@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables (Sangat rahasia, JANGAN di-push!)
+.env
+
+# Hardhat artifacts and cache (Otomatis digenerate, tidak perlu di-push)
+artifacts/
+cache/
+
+# Vercel (Jika nanti ada build directory dari Vercel)
+.vercel/

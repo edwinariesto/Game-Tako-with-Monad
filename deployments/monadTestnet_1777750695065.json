@@ -1,0 +1,8 @@
+{
+  "network": "monadTestnet",
+  "timestamp": "2026-05-02T19:38:15.064Z",
+  "deployer": "0x29b7DA258ED7F92F72511d8fC5d1f8dd636bAAE6",
+  "contracts": {
+    "TAKOGame": "0x0Eb76CC7432eb2aa9274B742673FEb859b8Df4c8"
+  }
+}

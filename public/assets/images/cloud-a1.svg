@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="#FFFFFF">
+  <!-- Cloud A1: Fluffy classic -->
+  <ellipse cx="70" cy="75" rx="60" ry="35" fill="white"/>
+  <circle cx="50" cy="60" r="30" fill="white"/>
+  <circle cx="90" cy="50" r="35" fill="white"/>
+  <circle cx="120" cy="58" r="28" fill="white"/>
+  <circle cx="75" cy="55" r="28" fill="white"/>
+  <ellipse cx="55" cy="80" rx="25" ry="15" fill="white"/>
+</svg>
